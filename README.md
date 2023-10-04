@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @danijia
-- 👀 I’m interested in learning different front-end technologies. 
-- 🌱 I’m currently learning html, css, & javascript!
+- 👋 Hi, I’m @danijia 
+- 🌱 I’m currently taking CS50!
 - 📫 How to reach me hdanijia@gmail.com
 
 <!---
