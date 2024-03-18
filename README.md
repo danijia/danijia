@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @danijia 
-- 🌱 I’m currently taking CS50!
 - 📫 How to reach me hdanijia@gmail.com
 
 <!---
