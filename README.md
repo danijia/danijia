@@ -6,8 +6,8 @@
 - Exploring projects that combine data analysis, data engineering, and data visualization
 
 ## 📁 Projects
-- **[Superstore Database Design Project](https://github.com/danijia/Superstore-Database-Design-Project)
-- **[Analyzing DC Crime Data with Python](https://github.com/danijia/dc-crime-analysis)
+- **[Superstore Database Design Project](https://github.com/danijia/Superstore-Database-Design-Project)**
+- **[Analyzing DC Crime Data with Python](https://github.com/danijia/dc-crime-analysis)** IN PROGRESS
 
 ## ⚙️ Skills
 - **Databases/SQL:** SQL Server, MySQL, PostgreSQL, BigQuery, ER Modeling
