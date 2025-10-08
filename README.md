@@ -18,7 +18,8 @@
 - Email: hdanijia@gmail.com
 - Linkedin: https://www.linkedin.com/in/danijia/
 
-## On a mission to turn curiosity into clean queries and actionable insights 
+## 🎯 Purpose
+I'm on a mission to turn curiosity into clean queries and actionable insights 
 
   
 
