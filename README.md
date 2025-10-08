@@ -2,8 +2,7 @@
 
 ## 💻 About me
 - Data oriented, experience in SQL, data troubleshooting, and analytics
-- Passionate about database design and data analytics and visualization
-- Exploring projects that combine data analysis, data engineering, and data visualization
+- Exploring projects that combine user research, data analysis, and data visualization
 
 ## 📁 Projects
 - **[Superstore Database Design Project](https://github.com/danijia/Superstore-Database-Design-Project)**
@@ -19,7 +18,7 @@
 - Linkedin: https://www.linkedin.com/in/danijia/
 
 ## 🎯 Purpose
-I'm on a mission to turn curiosity into clean queries and actionable insights 
+I'm on a mission to turn my curiosity into clean queries and actionable user/consumer insights 
 
   
 
