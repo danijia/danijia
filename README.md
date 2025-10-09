@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @danijia 
 
 ## 💻 About me
-- Analytics engineer, experience in SQL, data troubleshooting, and analytics
+- Analytics engineer
 - Exploring projects that combine user and consumer insights, data analysis, and data engineering
 
 ## 📁 Projects
