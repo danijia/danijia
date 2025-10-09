@@ -2,10 +2,11 @@
 
 ## 💻 About me
 - Data oriented, experience in SQL, data troubleshooting, and analytics
-- Exploring projects that combine user research, data analysis, and data visualization
+- Exploring projects that combine user and consumer insights, data analysis, and data engineering
 
 ## 📁 Projects
 - **[Superstore Database Design Project](https://github.com/danijia/Superstore-Database-Design-Project)**
+- **[Bellabeat FitBit Case Study - Marketing Data Analysis](https://github.com/danijia/bellabeat-case-study)** 🚧 In Progress 🚧
 
 ## ⚙️ Skills
 - **Databases/SQL:** SQL Server, MySQL, PostgreSQL, BigQuery, ER Modeling
