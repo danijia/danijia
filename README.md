@@ -1,9 +1,5 @@
 # 👋 Hi, I’m @danijia 
 
-## 💻 About me
-- Analytics engineer
-- Exploring projects that combine user and consumer insights, data analysis, and data engineering
-
 ## 📁 Projects
 - **[Superstore Database Design Project](https://github.com/danijia/Superstore-Database-Design-Project)**
 - **[Bellabeat FitBit Case Study - Marketing Data Analysis](https://github.com/danijia/bellabeat-case-study)** 🚧 In Progress 🚧
