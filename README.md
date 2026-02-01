@@ -2,7 +2,7 @@
 
 ## 📁 Projects
 - **[Superstore Database Design Project](https://github.com/danijia/Superstore-Database-Design-Project)**
-- **[Bellabeat FitBit Case Study - Marketing Data Analysis](https://github.com/danijia/bellabeat-case-study)** 🚧 In Progress 🚧
+- **[Bellabeat FitBit Case Study - Marketing Data Analysis](https://github.com/danijia/bellabeat-case-study)**
 
 
   
